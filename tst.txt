@@ -9,3 +9,30 @@ State the main thesis: Parents' ability to raise children plays a critical role 
 Penelitian ini akan mengatasi masalah stunting dengan menerapkan peran penting orang tua dalam menangani dan mencegah stunting baru secara swadaya. Tidak hanya dalam hal menyediakan makanan bergizi, tetapi juga dalam aspek lain seperti:1. pemberian ASI eksklusif selama 6 bulan pertama kehidupan bayi, 2. Pemberian makanan pendamping ASI (MPASI) yang bergizi dan seimbang, 3. Menjaga kebersihan lingkungan dan sanitasi, 4. Memberikan stimulasi dan pendidikan yang tepat bagi anak, dan 5. Memperhatikan kesehatan mental dan emosional anak. Usaha swadaya masyarakat ini akan didukung oleh pemerintah melalui BKKBN, puskesmas dan dinas kesehatan, dan KUA serta DUKCAPIL. Dunia usaha dan industri (DUDI) juga berkesempatan untuk berperan aktif sebagai untuk mempercepat tercapainya tujuan. Seluruh kegiatan akan dimulai dan dikoordinasikan oleh civitas akademika sebagai penggerak dalam penerapan.  
 
 Penelitian ini dikerjakan dengan melibatkan pakar dan ahli di bidang teknologi informasi, kedokteran, psikologi, sistem informasi, manajemen, pendidikan, dan komunikasi. Teknologi informasi berupa aplikasi mobile, dashboard informasi dan kecerdasan buatan akan digunakan sebagai media utama. Ahli gizi, dokter anak, psikolog, praktisi kesehtan, dan orang tua yang telah berhasil mencegah stunting pada anaknya akan menjadi sumber pengetahuan dan keteramoilan yang akan diberikan kepada orang tua. Didukung oleh sistem informasi, manajemen, dan pendidikan yang lengkap, dan modern seluruh aktivitas penerapan menjadi efektif dan efisien.    
+Absolutely! Here's a brief introduction to stunting:
+
+**What is Stunting?**
+
+* Stunting refers to chronic or recurrent malnutrition in children. It results in a child being too short for their age.
+* The World Health Organization (WHO) defines stunting as a height-for-age that is more than two standard deviations below the WHO Child Growth Standards median. 
+
+**Consequences of Stunting**
+
+Stunting has far-reaching and severe consequences for both individuals and entire societies:
+
+* **Individual Consequences:**
+    * Reduced cognitive development and learning potential
+    * Weakened immune systems, leading to increased susceptibility to illness 
+    * Increased risk of chronic diseases later in life (e.g., diabetes, heart disease)
+    * Lowered economic productivity in adulthood
+
+* **Societal Consequences**
+    * Strains on healthcare systems due to increased illness rates
+    * Losses in economic potential and productivity
+    * Perpetuation of poverty and inequality
+
+**Global Impact of Stunting**
+
+* Stunting is a widespread global problem, affecting millions of children worldwide. It is especially prevalent in low- and middle-income countries.
+* Approximately 149 million children under the age of five are stunted (2020).
+* Stunting contributes to child mortality and hinders the overall development of nations. 
